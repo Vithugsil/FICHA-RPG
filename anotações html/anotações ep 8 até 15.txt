@@ -1,0 +1,91 @@
+para imagem usamos a tag
+< img src="" > o src é o caminho que usamos até a imagem igual o link relativo ou o absoluto (pelo caminho relativo precisamos
+colocar o formato da imagem no final) para pegar uma imagem da internet deve se abrir em um nova guia e copiar o link
+
+para ajustar o tamanho da imagem usamos os comandos
+width="pixels" essa é a largura da imagem 
+height="pixels" essa é a altura da imagem 
+ambos usamos após o link e antes do fechamento da tag
+não precisamos necessariamente dos dois apenas 1 já ajusta a imagem certinho
+
+comando alt usado para uma pessoa deficiente visual conseguir ouvir oque esta na imagem 
+alt é usado para eu descrever a imagem
+
+imagem map um recurso utlizado para fazer algo como um point and click que eu clico em um local da imagem e ele
+redimenciona para um outro link
+usando o site imagem map generator eu uso e colo o linkno vscode
+
+é possivel ajustar o link no href e o mapa é o tamanho da imagem original
+
+
+Tabelas 
+para iniciar usamos a tag table dentro dela para simbolizar linhas usamos a tag tr que indica linhas
+dentro da primeira para darmos um titulo usamos a tag th(table head) (apenas na primeira linha/tr)
+dentro da segunda linha colocamos a tag td(table data) criamos uma nova tr
+
+listas
+listas não ordenadas
+são listas q não utilizam numeros é seve apenas para listar coisas
+nela utilizamos a tag ul
+e dentro dela a tag li para os itens da lista
+
+iframes
+praticamente um mini navegador dentro do site, quase um inception 
+tanto link absoluto quanto links alternativos
+(para videos no youtube utilizamos a compartilhar do video e incorporar)
+
+a tag que usamos é iframe src="link" podemos mudar o tamanho com width e height o height apenas com pixel e colocamos
+um titulo com title="titulo"
+
+é possivel usar o iframe como uma pagina que vai abrir em vez de abrir outro pagina
+pra isso usamos a tag normal e não colocamos nada e podemos adicionar name="" um nome 
+usando hraf="" targed= name "o nome do iframe"
+
+formulario
+é como um site onde a pessoa recebe os dados deixando o login por exemplo
+a tag principal é a <form> 
+dentro dele existe a tag input que serve para varias coisas, vamos começar com o input typy="text" para texto 
+como uma area de colocar o nome inclusive com a tag placeholder="" podemos colocar oque escrever naquele input
+junto com ele tambem temos a tag label que vem antes do input que serve para ajudar a indicar oque é aquilo
+podemos usar a tag id="nome" em input e for="nome" em label para ao clicar em laber selecionar o lugar onde se vai colocar o texto
+
+para fazer uma senha usamos o type="password" que serve praticamente para esconder oque está sendo digitado
+
+usando o type="email" ele reconhece quando é um email
+
+existe o input type="submit" que serve para envir as informações que forem colocadas no outro input
+
+ao colocar required nas tag de input vai tornar obrigadorio colocar o que esta pedindo
+
+type="radio" é tipo selecionavel todos tem que ter name e value e caso for fazer outro ele precisa ter outro name
+e tambem precisa de id para o label
+radio tem apenas uma escolha 
+
+para marcar usamos o type checkbox usamos o id para identificar name e value 
+
+value é que tem valor para o formulario
+
+tag select
+selecte é uma lista selecionavel
+option é colocado dentro da tag select para dar opções para selecionar coloca value e o nome da opção 
+
+usar disable para desabilitar o primeiro icone para colocar uma frase
+
+textarea
+é possivel usar um campo para texto usando o textarea
+para limitar é possivel usar rows para linhas e cols para colunas é possivel usar o place holder para dar um exemplo
+
+button é um botão padrão
+
+para audio usamos audio e dentro de audio usamos sorce src e colocamos o link que queremos usar 
+
+para conseguir controlar o audio coloque a tag constrols dentro do audio
+
+para tirar o download do audio colocamos no audio controlsList(com l maiusculo) ="nodownload"
+
+para video usamos algo parecido com o audio usamos a tag video e dentro usamos source src 
+na tag do video colocamos controls e podemos diminuir o tamanho por lá tb pode se colocar uma imagem de thumb
+usando poster na tag de video e colocar o link se colocarmos autoplay pode se tocar o video quando o navegador abrir
+podemos usar o nodownload e o disablepictureinpicture para tirar tela cheia en controlslist podemos colocar nofullscreen
+
+

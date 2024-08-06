@@ -1,0 +1,33 @@
+sempre colocar para inicio do site:
+
+index.html
+
+<> e </>
+sempre abrir com <alguma coisa>
+sempre fechar com </alguma coisa>
+Não colocar espaçoes no começo e no final 
+
+<!DOCTYPE html> sempre colocar para começar html tag para mostrar tipo html 5
+<html> tag principal
+<head> cabeça do site geralmente titulo informação que só navegador vai interpretar
+<title> titulo
+<body> o corpo do site, oque contem nele
+<h1> titulo e tamanho
+<p> paragrafo
+
+html 5 vscode já tem uma estrutura basica inicial
+
+meta tag, meta dados do site
+
+<meta charset> define os tipos de caracteres utilizados <meta charset="UTF-8"> define acentuação
+<meta http-equiv> serve para determinar se vai ser compativel com internet explorer
+meta name="viewport" content="width=device-width, initial-scale=1.0"> serva para adaptar a tela de quem está vendo
+<meta name= "description" descrição ao enviar o html
+<nmeta name= "keywords" palavras para prpocura do site e colocar virgula para separara
+name = author para saber quem fez o site 
+content= conteudo
+
+
+sempre usar um h1 pois o seo do google pode não identificar como um bom site
+
+

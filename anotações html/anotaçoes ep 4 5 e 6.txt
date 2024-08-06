@@ -1,0 +1,44 @@
+<b> negrito porem apenas isso
+<strong> negrito porem o site sabe que isso é uma frase com ênfase 
+
+<hr> linha bonita na pagina para separação
+
+<br> priticamente um espaço, uma quebra de linha dois sequidos pulam 2 linhas
+
+<i> italico
+
+<u> underline
+
+<small> deixa um texto pequeno
+
+<del> faz uma linha no meio
+
+<sup> faz o numero ou a letra ficar encima como esponencial
+<sub> o mesmo só que fica em baixo
+
+<mark> para um marca texto
+
+nota: tirar foto e fazer um arquivo no word mais bonitinho dos videos os recap
+
+isso é para o site entender as tags que colocar
+
+<abbr> para abreviaçoes <abbr title="algo"
+
+<address> um endereço, tanto de email, telefone, não necessariamente um endereço fisico, fica em italico e bem bonito
+
+<cite> o titulo de alguma obra como um filme, um livro, e outros coisas
+
+<q> para uma citação algo que alguem falou 
+
+<blockquote> para dar destaque a um trecho do texto um destaque  do proprio texto que pode vim antes do texto
+para criar um espectativa, é um destaque que fica um pouco a frente da margem
+
+<bdo d="ltr ou rtl"> para inverter o texto usa em idiomas orientals normalmente que se le ao contrario
+
+<!----> para um comentario não aparece no site mas é util para lembranças
+comentario pode ser usado para esconder algo temporariamente é só colocar o <!-- no começo e --> no final
+Apertar as teclas ctrl+K+c bem rapido faz esse papel de salvar como comentario usar o comando novamente faz
+voltar ao normal
+
+p*2> para duplicar ou triplicar oque esta escrito
+

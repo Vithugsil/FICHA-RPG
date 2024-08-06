@@ -1,0 +1,16 @@
+Link absoluto (url Absoluta)
+
+<a href=""> para link a de anchor (ancora) dentro das aspas colocar o link entre as tags pode se colocar
+qualquer cosia
+
+<a href="" Target="_blank" para redirecionar para uma nova aba
+
+link relativo (url relativa)
+para ir para uma outra pagina do projeto é apenas colocar o nome da outra pagina nas aspas do href
+
+para ir para um local dentro de uma pasta colocar o nome da pasta / nome do arquivo, percorer o caminho até ele
+
+dentro da pasta para entrar em um link anterio é preciso colocar ../ em vez de pasta  para voltar para aba anterior
+quanto mais pastas mais ../ colocar exemplo se for duas colocar ../../
+
+
